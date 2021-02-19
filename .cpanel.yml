@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    -export DEPLOYPATH=/home/fdjvx7la1i4e/public_html/acodewithaview.com
-    - index.html $DEPLOYPATH
